@@ -4,6 +4,31 @@
 💎Anything related to biology, physics, and oceans interests me!
 
 🎸I’m currently learning bioacoustics on R.
+
+ ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
+ ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 
 <!--
 **fbetulseker/fbetulseker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
