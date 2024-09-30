@@ -1,7 +1,9 @@
 # Hi there 👋
-🦈I'm an interdisiplinary research assisstant mostly using R, Python and MATLAB.\\
-💎Anything related to biology, physics, and oceans interests me!\\
-🎸I’m currently learning bioacoustics on R.\\
+🦈I'm an interdisiplinary research assisstant mostly using R, Python and MATLAB.
+
+💎Anything related to biology, physics, and oceans interests me!
+
+🎸I’m currently learning bioacoustics on R.
 <!--
 **fbetulseker/fbetulseker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
