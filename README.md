@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🦈I'm an interdisiplinary research assisstant mostly using R, Python and MATLAB.
 <!--
 **fbetulseker/fbetulseker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
