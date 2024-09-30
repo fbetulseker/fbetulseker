@@ -1,4 +1,4 @@
-** Hi there** 👋
+# Hi there 👋
 
 🦈I'm an interdisiplinary research assisstant mostly using R, Python and MATLAB.
 
